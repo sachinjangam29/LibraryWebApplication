@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fa61231-a129-4a95-bea0-72bf2cd6f5af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Library-App/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library-App/01-starter-files/Library-App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-App" beforeDir="false" afterPath="$PROJECT_DIR$/Library-App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-App/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-App/.idea/Library-App.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-App/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-App/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-App/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-App/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-App/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-App/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-App/02-backend/spring-boot-library/spring-boot-library/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727815378547</updated>
-      <workItem from="1727815379304" duration="670000" />
+      <workItem from="1727815379304" duration="1040000" />
     </task>
     <servers />
   </component>
